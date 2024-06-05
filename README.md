@@ -1,6 +1,6 @@
 ![Design 12 (7)](https://github.com/martaldsantos/pfcontosoelectronics/assets/44229401/01ba30c4-73e8-442a-9139-55f8f8007af3)
 
-# A Company chatbot for Contoso using Integrated Vectorization and the Azure AI Studio
+# Chatbot using Integrated Vectorization and Prompt Flow
 
 This repository hosts the development of an internal chatbot for Contoso Electronics, designed to assist employees by providing quick and accurate answers to questions about company benefits, internal policies, and job descriptions. The chatbot leverages natural language processing to understand and respond to a wide range of queries, ensuring that employees have access to essential information at their fingertips, enhancing their overall work experience and productivity.
 
