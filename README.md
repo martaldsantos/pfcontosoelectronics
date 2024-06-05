@@ -18,3 +18,9 @@ Self-Learning journey using data from the Contoso Electronics demo data. This re
 
 
 ## Available Data
+- Benefits_Options.pdf - The PDF details Contoso Electronics' health insurance options, comparing the comprehensive Northwind Health Plus plan with the basic Northwind Standard plan.
+- employee_handbook.pdf - The handbook covers the mission, values, and policies of Contoso Electronics
+- Northwind_Health_Plus_Benefits_Details.pdf - detailing on the Northwind Health Plus Benefits
+- Northwind_Standard_Benefits_Details.pdf - detailing on the Northwind Standard Benefits
+- PerksPlus.pdf - The PDF details the benefits program designed to support the health and wellness of employees
+- role_library.pdf - Outlines detailed job descriptions for various executive and managerial positions
